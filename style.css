@@ -1,0 +1,142 @@
+#achievementsID {
+    padding-bottom: 10px;
+}
+
+movie_head {
+    font-size=20px;
+    padding: 6px 22px;
+    margin-top: 15px;
+    border-radius: 10px;
+    width: 100%;
+    display: inline-block;
+}
+
+movie_head i {
+    float: right;
+}
+
+movie_text span {
+    color: antiquewhite;
+}
+
+row:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.travel mainDiv {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: solid 1px;
+    background-color: darkgray;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+.announcement {
+    background-color: #337ab7;
+    width: 100%;
+    height: 30px;
+}
+
+#marqueeStyle {
+    width: 100%;
+    direction: right;
+    height: 100px;
+    color: beige;
+    font-size: 120%;
+}
+
+#image {
+    width: 2000px;
+    border: solid 10px;
+    border-color: darkgrey;
+    margin-top: 10px;
+    height: 700px;
+}
+
+.travel_mainDiv {
+    float: left;
+    width: 33.33%;
+    height: 500px;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+    height: 300px;
+}
+
+#achievementsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 75px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    background-color: #337ab7;
+    color: aliceblue;
+}
+
+#map {
+    margin-right: 70px;
+}
+
+.Whatnew_li {
+    margin-top: 13px;
+}
+
+.Whatnew_li hr {
+    border: 1px solid white;
+    padding: 8px
+}
+
+.Whatnew_li img {
+    border-radius: 25px;
+    height: 250px;
+}
+
+.Whatnew_li p {
+    margin-top: 10px;
+}
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
